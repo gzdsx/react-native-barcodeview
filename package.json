@@ -1,5 +1,5 @@
 {
-  "name": "react-native-barcodeview",
+  "name": "react-native-gzdsx-barcodeview",
   "version": "1.0.0",
   "description": "A simple barcode scanner library for React Native apps",
   "main": "index.js",
